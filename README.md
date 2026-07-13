@@ -119,19 +119,4 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
-
-Hey there! 👋 I’m Tanishka Vijetra — part analyst, part data detective, and full-time fan of turning chaos into clarity. I built this project to show how raw, messy CSV files can be transformed into sleek, business-ready dashboards… kind of like giving data a spa day 🧖‍♀️📊.
-
-💬 A little about me:
-- 🛠 I love designing data pipelines that actually *work* — no duct tape involved.
-- 📦 I believe in the power of good data models (Star Schema = ⭐️ of my heart).
-- 📈 My happy place is writing SQL queries that answer the unspoken business question.
-- 🎯 I enjoy finding hidden patterns, weird anomalies, and “aha!” insights in datasets.
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-
-[![LinkedIn](https://www.linkedin.com/in/tanishka-vijetra/)
-
 
